@@ -5,7 +5,7 @@ import axios from "axios";
 export const ShopContext = createContext();
 
 const ShopContextProvider = (props) => {
-    const url = "http://localhost:8081";
+    const url = "https://forever-backend-0iz9.onrender.com";
     const currency = "$";
     const delivery_fee = 10;
     const [token, setToken] = useState(null);
