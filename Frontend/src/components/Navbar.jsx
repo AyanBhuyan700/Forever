@@ -36,7 +36,7 @@ function Navbar() {
             );
           })}
           <a
-            href="http://localhost:5174/AdminLogin"
+            href="https://forever-admin-cpzg.onrender.com/AdminLogin"
             target="_blank"
             rel="noopener noreferrer"
             className="border px-4 py-1 text-xs rounded-full flex items-center border-[#e5e7eb]"
