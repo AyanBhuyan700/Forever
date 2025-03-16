@@ -1,0 +1,22 @@
+Forever eCommerce
+Forever eCommerce is a full-featured eCommerce platform built using the MERN stack (MongoDB, Express.js, React, and Node.js) with Vite as the frontend build tool. It provides robust product management, cart functionality, and payment gateway integration.
+
+Features
+User Authentication (JWT-based authentication)
+Product Management (CRUD operations)
+Shopping Cart
+Order Management
+Payment Gateway Integration
+Wishlist Functionality
+Secure API Endpoints
+Image Uploads using Multer & Cloudinary
+Responsive UI with Tailwind CSS
+
+Tech Stack
+Frontend: React with Vite, Tailwind CSS
+Backend: Node.js, Express.js
+Database: MongoDB
+Authentication: JWT
+File Uploads: Multer & Cloudinary
+Notifications: Toastr, SweetAlert2
+
