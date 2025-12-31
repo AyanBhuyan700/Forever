@@ -60,7 +60,7 @@ function Navbar() {
               </Link>
             ))}
             <a
-              href={`${VITE_ADMIN_API_URL}/AdminLogin`}
+              href={`${url}/AdminLogin`}
               target="_blank"
               rel="noopener noreferrer"
               className="border px-4 py-1 text-xs rounded-full border-[#e5e7eb]"
