@@ -37,7 +37,7 @@ function Navbar() {
             );
           })}
           <a
-            href={`${url}/adminLogin`}
+            href={`${url}/AdminLogin`}
             target="_blank"
             rel="noopener noreferrer"
             className="border px-4 py-1 text-xs rounded-full flex items-center border-[#e5e7eb]"
@@ -60,7 +60,7 @@ function Navbar() {
               </Link>
             ))}
             <a
-              href={`${url}/adminLogin`}
+              href={`${url}/AdminLogin`}
               target="_blank"
               rel="noopener noreferrer"
               className="border px-4 py-1 text-xs rounded-full border-[#e5e7eb]"
