@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Outfit&family=Prata&display=swap');
+@import "tailwindcss";
+
+* {
+  font-family: Outfit;
+}
+
+.prate {
+  font-family: prate;
+  font-weight: 400
+}
+
+::-webkit-scrollbar {
+  display: none;
+}
+
+html {
+  scrollbar-width: none;
+  -ms-overflow-style: none;
+}
