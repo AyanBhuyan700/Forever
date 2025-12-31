@@ -20,13 +20,9 @@ const images = [
     { src: assets.vs, name: "VS" },
     { src: assets.triumph, name: "Triumph" },
     { src: assets.zivame, name: "Zivame" },
-    { src: assets.woodland, name: "Woodland" },
-    { src: assets.bosch, name: "Bosch" },
     { src: assets.armani, name: "Armani" },
-    { src: assets.converse, name: "Converse" },
     { src: assets.louisVuitton, name: "Louis Vuitton" },
     { src: assets.nike, name: "Nike" },
-    { src: assets.versace, name: "Versace" },
 ];
 
 const BrandDisplay = () => {
